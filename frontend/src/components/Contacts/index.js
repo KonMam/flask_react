@@ -11,7 +11,7 @@ function Contacts() {
         <div className="contact-container">
             <div className="contact">
                 <img className="linked-in-picture" src={EmailLogo} alt="profile"></img>
-                <p className="contact-title">Gmail</p>
+                <p className="contact-title">Email</p>
             </div>
             <div className="contact">
                 <img className="linked-in-picture" src={PhoneLogo} alt="profile"></img>
