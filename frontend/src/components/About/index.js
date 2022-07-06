@@ -1,5 +1,4 @@
 import React from "react";
-import MyImage from "../../Assets/Images/profile_picture.jpg";
 import "./index.css"
 
 function Picture() {

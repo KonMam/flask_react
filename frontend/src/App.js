@@ -1,9 +1,12 @@
 import React from 'react'
-import Nav from './components/Nav/index.js'
+import Picture from './Components/Picture/index.js';
+import './index.css'
 
 function App() {
   return (
-    <Nav />
+    <div class="App">
+    <Picture />
+    </div>
   );
 }
 

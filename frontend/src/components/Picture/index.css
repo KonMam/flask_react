@@ -1,0 +1,32 @@
+:root {
+    --gains: #D4DAD5;
+    --space: #2E3532;
+    --ruby: #8B2635;
+}
+
+
+.container-div { 
+    Display: flex;
+    flex-direction: column;
+    Height: 100vh;
+    Width: 100vw; 
+    Align-Items: center;
+    Justify-Content: center;
+    }
+
+img {
+    border-radius: 50%;
+    width: 200px
+}
+
+.name {
+    Display: flex;
+    color: var(--space)
+}
+
+.about {
+    width: 600px;
+    text-align: justify;
+    color: var(--space);
+    font-weight: 600;    
+}

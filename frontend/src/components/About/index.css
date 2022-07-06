@@ -1,0 +1,12 @@
+:root {
+    --gains: #D4DAD5;
+    --space: #2E3532;
+    --ruby: #8B2635;
+}
+
+.about {
+    width: 600px;
+    text-align: justify;
+    color: var(--space);
+    font-weight: 600;    
+}
