@@ -10,6 +10,16 @@
     padding: 0px 100px;
 }
 
+.social {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    padding: 5px;
+    border: 0;
+    background-color: var(--gains);
+    cursor: pointer;
+}
+
 .contact {
     display: flex;
     align-items: center;
@@ -19,7 +29,7 @@
     background-color: var(--gains);
 }
 
-.contact:hover {
+.social:hover {
     background-color: var(--ruby);
     transform: scale(1.1);
     transition-duration: 0.5s;
