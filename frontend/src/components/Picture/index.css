@@ -5,28 +5,16 @@
 }
 
 
-.container-div { 
+.pic-container { 
     Display: flex;
     flex-direction: column;
-    Height: 100vh;
-    Width: 100vw; 
-    Align-Items: center;
+    Align-Items: left;
     Justify-Content: center;
-    }
+    margin: 25px;
+}
 
-img {
+
+.profile {
     border-radius: 50%;
-    width: 200px
-}
-
-.name {
-    Display: flex;
-    color: var(--space)
-}
-
-.about {
-    width: 600px;
-    text-align: justify;
-    color: var(--space);
-    font-weight: 600;    
+    width: 200px;
 }

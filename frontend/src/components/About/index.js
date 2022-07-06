@@ -1,12 +1,11 @@
 import React from "react";
 import "./index.css"
 
-function Picture() {
+function About() {
     return (
-        <div class="container-div">
-            <h1 class="name">Konstantinas Mamonas</h1>
-            <img src={MyImage} alt="profile"></img>
-            <p class="about">
+        <div className="about-container">
+            <h1 className="name">Konstantinas Mamonas</h1>
+            <p className="about">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
             sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
             Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip 
@@ -19,4 +18,4 @@ function Picture() {
 
 };
 
-export default Picture
+export default About

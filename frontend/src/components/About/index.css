@@ -4,9 +4,22 @@
     --ruby: #8B2635;
 }
 
+.about-container {
+    display: flex;
+    flex-direction: column;
+    margin: 25px;
+}
+
 .about {
-    width: 600px;
+    width: 500px;
     text-align: justify;
     color: var(--space);
-    font-weight: 600;    
+    font-weight: 600;
+}
+
+.name {
+    color: var(--space);
+    width: 400px;
+    text-align: left;
+    margin: 0px;
 }

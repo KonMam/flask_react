@@ -4,7 +4,21 @@
     --ruby: #8B2635;
 }
 
+
 body {
     background-color: var(--gains);
     font-family: 'Montserrat', sans-serif;
+}
+
+
+.top-info {
+    display: flex;
+    Justify-Content: center;
+    flex-direction: row;
+    margin: 25px;
+}
+
+.other-stuff {
+    display: flex;
+    justify-content: center;
 }
