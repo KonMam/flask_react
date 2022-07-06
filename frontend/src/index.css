@@ -10,6 +10,11 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.app {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
 
 .top-info {
     display: flex;

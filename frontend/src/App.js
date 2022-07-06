@@ -6,7 +6,7 @@ import './index.css'
 
 function App() {
   return (
-    <>
+    <div className="app">
       <div className="top-info">
         <Picture />
         <About />
@@ -14,7 +14,7 @@ function App() {
       <div className="other-stuff">
         <Contacts />
       </div>
-    </>
+    </div>
   );
 }
 
