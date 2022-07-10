@@ -1,10 +1,3 @@
-:root {
-    --gains: #D4DAD5;
-    --space: #2E3532;
-    --ruby: #8B2635;
-}
-
-
 .pic-container { 
     Display: flex;
     flex-direction: column;
