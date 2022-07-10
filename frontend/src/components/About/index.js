@@ -6,12 +6,15 @@ function About() {
         <div className="about-container">
             <h1 className="name">Konstantinas Mamonas</h1>
             <p className="about">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip 
-            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse 
-            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-            sunt in culpa qui officia deserunt mollit anim id est laborum 
+            The world of data is menacingly deep and still largely uncharted, 
+            however using available data analysis tools and smart visual design elements 
+            we can reap benefits in all fields of interest. To me it's only natural that 
+            I would take on the task of bringing clarity to all the data I can get my 
+            hands on. That's why I am interested in everything related to data - 
+            gathering, validation, manipulation, visual representation and analysis. 
+            </p>
+            <p className="about">
+            Working with Power BI, Python, SQL. 
             </p>
         </div>
     )

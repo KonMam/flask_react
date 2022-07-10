@@ -15,7 +15,7 @@ function App() {
       <div className="other-stuff">
         <Contacts />
       </div>
-      <h2 className='title'> Projects</h2>
+      {/* <h2 className='title'> Projects</h2>
       <div className='cards'>
         <Card
             img='https://www.svgrepo.com/show/373409/default-file.svg'
@@ -41,7 +41,7 @@ function App() {
             text='Lorem ipsum dolor sit amet, consectetur adipiscing elit,
               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
         />
-      </div>
+      </div> */}
     </div>
   );
 }

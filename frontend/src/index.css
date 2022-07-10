@@ -11,7 +11,6 @@ body {
 }
 
 .app {
-    display: flex;
     justify-content: center;
     flex-direction: column;
 }
@@ -21,11 +20,13 @@ body {
     Justify-Content: center;
     flex-direction: row;
     margin: 25px;
+    flex-wrap: wrap;
 }
 
 .other-stuff {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .cards {

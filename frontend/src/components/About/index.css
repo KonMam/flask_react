@@ -11,15 +11,14 @@
 }
 
 .about {
-    width: 500px;
     text-align: justify;
     color: var(--space);
-    font-weight: 600;
+    font-weight: 800;
+    max-width: 540px;
 }
 
 .name {
     color: var(--space);
-    width: 400px;
     text-align: left;
     margin: 0px;
 }
